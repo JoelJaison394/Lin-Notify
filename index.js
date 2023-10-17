@@ -118,7 +118,7 @@ app.post("/api/v1/users/adduser", async (req, res) => {
                                 <h2>Welcome to Lin Notify</h2>
                                 <p>Dear ${Username},</p>
                                 <p>Thank you for joining Lin Notify. We are thrilled to have you on board!</p>
-                                <p>You are now part of a growing community of users who rely on Lineways Notifier to stay informed and connected.</p>
+                                <p>You are now part of a growing community of users who rely on Lin  Notify to stay informed and connected.</p>
                                 <p>Here are some of the features you can look forward to:</p>
                                 <ul>
                                         <li>Real-time notifications.</li>
@@ -126,7 +126,7 @@ app.post("/api/v1/users/adduser", async (req, res) => {
                                         <li>Stay updated on important events and news.</li>
                                 </ul>
                                 <p>We hope you have a great experience with Lin Notify.</p>
-                                <p>If you have any questions or need assistance, please don't hesitate to contact our support team at support@lineways.com.</p>
+                                <p>If you have any questions or need assistance, please don't hesitate to contact our support team at support@ joeljaison394@gmail.com , vivekkj2004@gmail.com</p>
                                 <p>Best regards,<br> The Lin Notify Team</p>
                         </td>
                 </tr>
