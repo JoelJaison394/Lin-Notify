@@ -155,7 +155,7 @@ app.post("/api/v1/users/adduser", async (req, res) => {
       const mailOptions = {
         from: emailUser,
         to: `${Email}`,
-        subject: "Thank❤️ you for joining Lin Notify!",
+        subject: "Thank you ❤️ for joining Lin Notify!",
         html: htmlTemplate,
       };
 
